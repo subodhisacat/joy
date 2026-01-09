@@ -4,31 +4,31 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     rating: 5,
-    text: "Tripvanta is a game-changer! The ease of use and the personalized recommendations have made my travel planning so much easier. I can't recommend it enough.",
+    text: "Joy Travel and Tours is a game-changer! The ease of use and the personalized recommendations have made my travel planning so much easier. I can't recommend it enough.",
     name: "John Doe",
     location: "United Kingdom",
   },
   {
     rating: 5,
-    text: "Tripvanta made our anniversary trip completely stress-free. From planning the itinerary to booking unique stays, everything was smooth and personal.",
+    text: "Joy Travel and Tours made our anniversary trip completely stress-free. From planning the itinerary to booking unique stays, everything was smooth and personal.",
     name: "Devon Lane",
     location: "Canada",
   },
   {
     rating: 5,
-    text: "We planned a two-week trip through Asia with Tripvanta and it was amazing. The tools were easy to use, and the support team helped us with custom routes.",
+    text: "We planned a two-week trip through Asia with Joy Travel and Tours and it was amazing. The tools were easy to use, and the support team helped us with custom routes.",
     name: "Mei Lin & Andrew",
     location: "Singapore",
   },
   {
     rating: 5,
-    text: "As a solo traveler, I always look for platforms I can trust. Tripvanta gave me more than just destinations - it offered insights and real local connections.",
+    text: "As a solo traveler, I always look for platforms I can trust. Joy Travel and Tours gave me more than just destinations - it offered insights and real local connections.",
     name: "David Kane",
     location: "Australia",
   },
   {
     rating: 5,
-    text: "Tripvanta exceeded my expectations. The platform is user-friendly, and the customer service is top-notch. Highly recommend for stress-free travel.",
+    text: "Joy Travel and Tours exceeded my expectations. The platform is user-friendly, and the customer service is top-notch. Highly recommend for stress-free travel.",
     name: "Sarah Thompson",
     location: "United States",
   },
